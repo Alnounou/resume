@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       //GitHub: "https://github.com/jackyzha0/quartz",
       //"Discord Community": "https://discord.gg/cRFFHYye7t",
+      LinkedIn: "https://www.linkedin.com/in/faisal-alnounou-5439018a/",
     },
   }),
 }
@@ -31,7 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     //Component.Graph(),
-    Component.DesktopOnly(Component.Graph()),
+    //Component.DesktopOnly(Component.Graph()),
     Component.MobileOnly(Component.Explorer()),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
