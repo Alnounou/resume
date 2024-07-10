@@ -2,6 +2,8 @@
 title: NotFoundPage
 tags:
   - plugin/emitter
+created: 2024-07-10 @ 04:16:05 AM
+updated: 2024-07-10 @ 04:16:05 AM
 ---
 
 This plugin emits a 404 (Not Found) page for broken or non-existent URLs.

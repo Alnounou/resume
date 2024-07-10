@@ -2,6 +2,8 @@
 title: Full-text Search
 tags:
   - component
+created: 2024-07-10 @ 04:16:05 AM
+updated: 2024-07-10 @ 04:16:05 AM
 ---
 
 Full-text search in Quartz is powered by [Flexsearch](https://github.com/nextapps-de/flexsearch). It's fast enough to return search results in under 10ms for Quartzs as large as half a million words.

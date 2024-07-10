@@ -2,6 +2,8 @@
 title: LaTeX
 tags:
   - feature/transformer
+created: 2024-07-10 @ 04:16:05 AM
+updated: 2024-07-10 @ 04:16:05 AM
 ---
 
 Quartz uses [Katex](https://katex.org/) by default to typeset both inline and block math expressions at build time.

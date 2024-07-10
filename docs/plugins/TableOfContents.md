@@ -2,6 +2,8 @@
 title: TableOfContents
 tags:
   - plugin/transformer
+created: 2024-07-10 @ 04:16:05 AM
+updated: 2024-07-10 @ 04:16:05 AM
 ---
 
 This plugin generates a table of contents (TOC) for Markdown documents. See [[table of contents]] for more information.

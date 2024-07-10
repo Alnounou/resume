@@ -2,6 +2,8 @@
 title: Private Pages
 tags:
   - feature/filter
+created: 2024-07-10 @ 04:16:05 AM
+updated: 2024-07-10 @ 04:16:05 AM
 ---
 
 There may be some notes you want to avoid publishing as a website. Quartz supports this through two mechanisms which can be used in conjunction:

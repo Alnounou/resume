@@ -1,7 +1,9 @@
 ---
-title: "Latex"
+title: Latex
 tags:
   - plugin/transformer
+created: 2024-07-10 @ 04:16:05 AM
+updated: 2024-07-10 @ 04:16:05 AM
 ---
 
 This plugin adds LaTeX support to Quartz. See [[features/Latex|Latex]] for more information.
