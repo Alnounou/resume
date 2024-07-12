@@ -3,7 +3,7 @@ title: Teaching Experience
 draft: false
 tags: 
 created: 2024-07-10T04:46
-updated: 2024-07-10 @ 06:11:05 AM
+updated: 2024-07-11 @ 20:09:36 PM
 ---
 # Highschool Teacher
 ## Pearland Highschool -- 2022-2024
@@ -17,7 +17,7 @@ Taught math to a healthy number of SPED students.
 
 ## Tutor / Student Advisor
 ### University of Houston – Clear Lake -- 2014-2015
-###### English Composition, Technical writing, Intro computer science, Into to JAVA, Intro to C++, Differential Equations, Discrete Math, Computer Architecture and assembly language, Data Structures
+###### English Composition, Technical writing, Intro computer science, Intro to JAVA, Intro to C++, Differential Equations, Discrete Math, Computer Architecture and assembly language, Data Structures
 
 Advised students on their registration choices and came up with degree long plans to map out which courses they should register for and when to register for them.
 
